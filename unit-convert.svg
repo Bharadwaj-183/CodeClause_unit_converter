@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="987" viewBox="0 0 1920 987">
+  <defs>
+    <style>.a{fill:#151753;}.b{clip-path:url(#a);}.c{fill:#151950;}.d{fill:#282f89;}.e{fill:#1a215b;}.f{fill:#2b2bb2;}.g{fill:#4f78f2;}.h{fill:#20256c;}</style>
+    <clipPath id="a">
+      <rect class="a" width="1920" height="987" transform="translate(-2 62.483)" />
+    </clipPath>
+  </defs>
+  <g class="b" transform="translate(2 -62.483)">
+    <rect class="c" width="1922" height="990" transform="translate(-2 60)" />
+    <g transform="translate(-829.758 -109.517)">
+      <path class="d" d="M0,0H275.539V275.539H0Z" transform="translate(2257.518 883.976)" />
+      <path class="e" d="M1147.3,33.2,1422.84,308.743l275.539,275.539V308.743h275.539V33.2Z" transform="translate(834.679 24.157)" />
+      <path class="f" d="M1741.84,352.2V627.743L1466.3,352.2Z" transform="translate(1066.756 256.234)" />
+      <path class="g" d="M1466.3,33.2l275.54,275.539V33.2Z" transform="translate(1066.755 24.157)" />
+      <rect class="d" width="275.539" height="275.539" transform="translate(2533.057 332.899)" />
+      <rect class="h" width="275.54" height="275.539" transform="translate(2533.057 883.976)" />
+      <path class="e" d="M1306.8,352.2v275.54L1582.34,903.283V627.744h275.539L1582.34,352.2Z" transform="translate(950.717 256.233)" />
+      <rect class="h" width="275.539" height="275.539" transform="translate(821.462 57.36)" />
+      <path class="e" d="M343.8,903.283h826.618L894.88,627.744,619.341,352.2Z" transform="translate(202.12 256.233)" />
+      <path class="e" d="M619.341,33.2V308.743H343.8l275.54,275.539H894.88V308.743Z" transform="translate(202.12 24.157)" />
+    </g>
+  </g>
+</svg>
